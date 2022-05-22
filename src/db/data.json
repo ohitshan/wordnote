@@ -1,0 +1,45 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "movie": "BigBangTheory"
+    }
+  ],
+  "words": [
+    {
+      "movie": "Breaking",
+      "eng": "hiq",
+      "kor": "아",
+      "isChecked": true,
+      "id": 6
+    },
+    {
+      "movie": "BigBangTheory",
+      "eng": "hi",
+      "kor": "안녕",
+      "isChecked": false,
+      "id": 7
+    },
+    {
+      "movie": "BigBangTheory",
+      "eng": "hello",
+      "kor": "안녕하세요",
+      "isChecked": false,
+      "id": 8
+    },
+    {
+      "movie": "BigBangTheory",
+      "eng": "hi",
+      "kor": "안녕",
+      "isChecked": false,
+      "id": 9
+    },
+    {
+      "movie": "BigBangTheory",
+      "eng": "gfd",
+      "kor": "wr",
+      "isChecked": false,
+      "id": 10
+    }
+  ]
+}
